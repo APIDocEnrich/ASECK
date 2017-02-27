@@ -1,2 +1,2 @@
 # ASECK
-The ASECK enriched API specifications (Java SE and Android)
+This is the offical website of ASECK and the ASECK enriched API specifications (Java SE and Android)
